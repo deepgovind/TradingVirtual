@@ -1,12 +1,12 @@
 {
     "al": [
         {
-            "Id": 0,
-            "Message": "ok"
-        },
-        {
             "Id": 1,
             "Message": "Welcome to Trading Virtual Enjoy Free trading."
+        },
+        {
+            "Id": 2,
+            "Message": "Free. Live Macd Cross alert, Price Alert"
         }
     ]
 }

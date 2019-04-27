@@ -3,11 +3,11 @@
     "al": [
         {
             "Id": 1,
-            "Message": "Welcome to Trading Virtual Pro Enjoy Free trading."
+            "Message": "Welcome to Trading Virtual Pro Enjoy Free trading. Free. Live Macd Cross alert, Price Alert"
         },
         {
-            "Id": 2,
-            "Message": "Free. Live Macd Cross alert, Price Alert"
-        }
+             "Id": 2,
+            "Message": "Send me stock list and country for adding in Trading Virtual"
+        }           
     ]
 }
